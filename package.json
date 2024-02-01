@@ -1,5 +1,5 @@
 {
-    "scripts": {
-        "start": "echo current path is `pwd`"
-    }
+  "scripts": {
+    "start": "echo current path is `pwd`"
+  }
 }
